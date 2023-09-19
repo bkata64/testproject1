@@ -1,2 +1,2 @@
 nev = input("Neved: ")
-print("Hello " + nev + "!")
+print("Hi " + nev + "!")
