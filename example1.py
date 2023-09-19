@@ -1,1 +1,2 @@
-print("Hello!")
+nev = input("Neved: ")
+print("Hello " + nev + "!")
